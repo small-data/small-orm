@@ -1,2 +1,2 @@
 # small-orm
-orm
+lib
